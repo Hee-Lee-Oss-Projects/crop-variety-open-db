@@ -1,0 +1,30 @@
+{
+  "id": "crop-variety-open-db-variety-records-cereals-e-g-maize-rice-w-002",
+  "title": "Variety records: cereals (e.g. maize, rice, wheat, sorghum) (open sources)",
+  "project": "crop-variety-open-db",
+  "type": "data",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "agriculture",
+    "open-data",
+    "food-security"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "dataset",
+  "tokenEstimate": "large",
+  "status": "open",
+  "context": "cereals (e.g. maize, rice, wheat, sorghum) are important crops with openly-documented varieties in gene banks and public catalogs.",
+  "objective": "Compile documented variety records for cereals (e.g. maize, rice, wheat, sorghum) from open sources, following the schema with a citation and license per record.",
+  "acceptanceCriteria": [
+    ">=15 records across >=2 cereals (e.g. maize, rice, wheat, sorghum), each with source + license",
+    "Every field follows the schema",
+    "No proprietary catalogs or agronomic advice",
+    "CC-BY-4.0 header + attributions"
+  ],
+  "output": "deliverables/crop-variety-open-db-variety-records-cereals-e-g-maize-rice-w-002.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "crop-variety-open-db-variety-records-vegetables-e-g-tomato-on-005",
+  "title": "Variety records: vegetables (e.g. tomato, onion, cabbage) (open sources)",
+  "project": "crop-variety-open-db",
+  "type": "data",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "agriculture",
+    "open-data",
+    "food-security"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "dataset",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "vegetables (e.g. tomato, onion, cabbage) are important crops with openly-documented varieties in gene banks and public catalogs.",
+  "objective": "Compile documented variety records for vegetables (e.g. tomato, onion, cabbage) from open sources, following the schema with a citation and license per record.",
+  "acceptanceCriteria": [
+    ">=15 records across >=2 vegetables (e.g. tomato, onion, cabbage), each with source + license",
+    "Every field follows the schema",
+    "No proprietary catalogs or agronomic advice",
+    "CC-BY-4.0 header + attributions"
+  ],
+  "output": "deliverables/crop-variety-open-db-variety-records-vegetables-e-g-tomato-on-005.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}

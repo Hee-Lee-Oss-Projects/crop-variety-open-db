@@ -1,5 +1,5 @@
 {
-  "id": "crop-variety-open-db-schema-001",
+  "id": "crop-variety-open-db-schema-provenance-001",
   "title": "Crop-variety database schema + provenance rules",
   "project": "crop-variety-open-db",
   "type": "data",
@@ -13,7 +13,7 @@
   "riskTier": "medium",
   "urgent": false,
   "deliverable": "dataset",
-  "tokenEstimate": "medium",
+  "tokenEstimate": "small",
   "status": "open",
   "context": "A trait database needs a clear, source-traceable schema.",
   "objective": "Define the record schema (crop, variety, key traits, maturity, source, license) and provenance rules requiring a citation per record.",
@@ -23,7 +23,7 @@
     "Includes a worked example record",
     "CC-BY-4.0 header"
   ],
-  "output": "deliverables/schema-001.md",
+  "output": "deliverables/crop-variety-open-db-schema-provenance-001.md",
   "requestor": "TO BE SECURED",
   "verifiedNeed": false,
   "outputLicense": "CC-BY-4.0"

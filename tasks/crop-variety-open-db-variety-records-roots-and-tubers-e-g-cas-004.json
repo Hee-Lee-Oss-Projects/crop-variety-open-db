@@ -1,0 +1,30 @@
+{
+  "id": "crop-variety-open-db-variety-records-roots-and-tubers-e-g-cas-004",
+  "title": "Variety records: roots and tubers (e.g. cassava, yam, potato, sweet potato) (open sources)",
+  "project": "crop-variety-open-db",
+  "type": "data",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "agriculture",
+    "open-data",
+    "food-security"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "dataset",
+  "tokenEstimate": "large",
+  "status": "open",
+  "context": "roots and tubers (e.g. cassava, yam, potato, sweet potato) are important crops with openly-documented varieties in gene banks and public catalogs.",
+  "objective": "Compile documented variety records for roots and tubers (e.g. cassava, yam, potato, sweet potato) from open sources, following the schema with a citation and license per record.",
+  "acceptanceCriteria": [
+    ">=15 records across >=2 roots and tubers (e.g. cassava, yam, potato, sweet potato), each with source + license",
+    "Every field follows the schema",
+    "No proprietary catalogs or agronomic advice",
+    "CC-BY-4.0 header + attributions"
+  ],
+  "output": "deliverables/crop-variety-open-db-variety-records-roots-and-tubers-e-g-cas-004.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}

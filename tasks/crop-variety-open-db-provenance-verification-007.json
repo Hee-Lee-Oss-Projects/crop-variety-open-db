@@ -1,0 +1,30 @@
+{
+  "id": "crop-variety-open-db-provenance-verification-007",
+  "title": "Provenance and license verification pass",
+  "project": "crop-variety-open-db",
+  "type": "data",
+  "lane": "donated",
+  "priority": "low",
+  "domain": [
+    "agriculture",
+    "open-data",
+    "food-security"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "dataset",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Every record must trace to a compatible open source.",
+  "objective": "Verify every record's source and license across the database and correct/remove any that fail.",
+  "acceptanceCriteria": [
+    "Each record verified against its cited source",
+    "Any incompatible/unverifiable record removed",
+    "Verification notes committed",
+    "CC-BY-4.0 header"
+  ],
+  "output": "deliverables/crop-variety-open-db-provenance-verification-007.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}
