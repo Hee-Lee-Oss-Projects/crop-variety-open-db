@@ -1,0 +1,30 @@
+{
+  "id": "crop-variety-open-db-staple-cereals-002",
+  "title": "Variety records: staple cereals (open sources)",
+  "project": "crop-variety-open-db",
+  "type": "data",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "agriculture",
+    "open-data",
+    "food-security"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "dataset",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Cereals are staple crops with open variety data.",
+  "objective": "Add documented variety records for staple cereals (e.g. maize, rice, wheat) from open sources following the schema.",
+  "acceptanceCriteria": [
+    ">=15 records across >=2 cereals, each with source + license",
+    "Fields follow the schema",
+    "No proprietary or advice content",
+    "CC-BY-4.0 header + attributions"
+  ],
+  "output": "deliverables/staple-cereals-002.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}
